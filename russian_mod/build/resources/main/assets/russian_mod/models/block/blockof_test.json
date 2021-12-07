@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "russian_mod:blocks/test",
+    "up": "russian_mod:blocks/test",
+    "north": "russian_mod:blocks/test",
+    "east": "russian_mod:blocks/test",
+    "south": "russian_mod:blocks/test",
+    "west": "russian_mod:blocks/test",
+    "particle": "russian_mod:blocks/test"
+  }
+}
